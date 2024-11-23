@@ -1,0 +1,1 @@
+# django-poll-app-nov2024
